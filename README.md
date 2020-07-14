@@ -1,3 +1,3 @@
 # Springboard Data Science Bootcamp
 
-Repository for Springbroad Projects and Case Studies
+This is a repository for Springbroad Projects and Case Studies.
