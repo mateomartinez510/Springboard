@@ -1,2 +1,3 @@
-# springboard
-Springbroad Project and Case Study Repo
+# Springboard Data Science Bootcamp
+
+Repository for Springbroad Projects and Case Studies
