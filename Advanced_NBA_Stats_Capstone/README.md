@@ -1,6 +1,6 @@
 
 ## These notebooks are still a work in progress. 
-## I am currently working on EDA for my capstone. 
+## I am currently working on EDA. 
 
 ### A question I am thinking about is how to perform EDA on my dataframe that has more than 100 columns.
 
