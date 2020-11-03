@@ -2,6 +2,8 @@
 
 ![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/Advanced_NBA_Stats_Capstone/images/nba_image_1.png)
 
+(switcht this image for first slide in slide deck, continuity) (also with rest of images for this readme, maybe finish the slide show first then just use some of those after, the slide deck should be more thorough and indepth than the readme, focus on the slide deck first!)
+
 The goal of this project is to use Advanced NBA statistics from one season to predict a specific metric of player performance in the following season.
 (maybe here explain why this project, usefulness to NBA managers/scouts at identifying talent, also with legalization of sports gambling and popularity of fanatasy sports, any sports enthusiast could benefit from a model that can predict player statistics in the future.)
 
