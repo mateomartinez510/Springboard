@@ -1,6 +1,7 @@
-# Predicting NBA Statistics with a Linear Regression Model
+![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/Advanced_NBA_Stats_Capstone/images/nba_image_1.png))
 
-![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/Advanced_NBA_Stats_Capstone/images/nba_image_1.png)
+
+# Predicting NBA Statistics with a Linear Regression Model
 
 (switcht this image for first slide in slide deck, continuity) (also with rest of images for this readme, maybe finish the slide show first then just use some of those after, the slide deck should be more thorough and indepth than the readme, focus on the slide deck first!)
 
