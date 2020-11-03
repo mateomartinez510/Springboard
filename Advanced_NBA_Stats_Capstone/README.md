@@ -1,4 +1,4 @@
-![nba_stats_image_1]((https://github.com/mateomartinez510/Springboard/blob/master/Advanced_NBA_Stats_Capstone/images/nba_all_stars_2020.jpeg)
+![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/Advanced_NBA_Stats_Capstone/images/nba_all_stars_2020.jpeg)
 
 
 # Predicting NBA Statistics with a Linear Regression Model
