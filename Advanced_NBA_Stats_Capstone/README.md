@@ -41,7 +41,7 @@ I trained series of different algorithms for my predictions of my target variabl
 #### #### graph of subsets and coefficents df? #####
 
 
-# Model Analysis
+# 6. Model Analysis
 In this notebook I analyzed the results of my best model. First I analyzed the most impactful coefficients. Unsuprisingly the previous season's PIE value was the most important cofficient, but after that 'DREB%',  'USG%', and 'FGM_5_9ft' were the next most important coefficients, which translate to defensive rebounding percentage, player ussage based on shots and turnovers, and short range field goal percentage. Next, I analyzed different subsets (players who changed teams, most improved players, bench players, underperforming players, etc) of the NBA players to see on which subset the model performed better or worse. The subset that the model performed the best were players who did not change teams between seasons, and the subset the with the lowest accuracy was players who showed the highest impovement between seasons. Overall the my regression model was more likely to predict players would show a regression towards the mean rather capture unique player progression such as rising superstars. The results of the model could still be beneficial at targeting young role players who have modest growth potential.
 
 # 7. Next Steps
