@@ -1,4 +1,4 @@
-![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/Advanced_NBA_Stats_Capstone/images/nba_image_1.png))
+![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/Advanced_NBA_Stats_Capstone/images/nba_image_1.png)
 
 
 # Predicting NBA Statistics with a Linear Regression Model
