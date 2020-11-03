@@ -1,4 +1,5 @@
-![nba_stats_image_1](https://github.com/mateomartinez510/Springboard/blob/master/Advanced_NBA_Stats_Capstone/images/nba_all_stars_2020.jpeg){height="70px" width="70px"}
+
+<img src="https://github.com/mateomartinez510/Springboard/blob/master/Advanced_NBA_Stats_Capstone/images/nba_all_stars_2020.jpeg" width="100" height="100"/>
 
 
 # Predicting NBA Statistics with a Linear Regression Model
