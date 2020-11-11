@@ -1,0 +1,10 @@
+,RMSE,R-Squared,Hyperparameters
+Random_Forest,2.19,0.51,Default
+Elastic_Net,2.25,0.48,Bayesian Optimization
+XGBoost,2.41,0.41,Default
+Elastic_Net,2.43,0.39,Grid Search
+Elastic_Net,2.46,0.38,Random Grid Search
+Elastic_Net,2.46,0.38,Grid Search
+Lasso,2.97,0.09,Grid Search
+Ridge,3.08,0.02,Grid Search
+SmOLS,3.19,-0.04,Default
