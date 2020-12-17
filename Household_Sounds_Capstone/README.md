@@ -19,7 +19,7 @@ In this notebook we will extract three sets of features: Mel-Frequency Spectrogr
 
 ## [3. Exploratory Data Analysis](https://github.com/mateomartinez510/Springboard/blob/master/Household_Sounds_Capstone/notebooks/03_EDA.ipynb)
 
-In this notebook we will investigate in more depth the audio tags, class labels, and the imbalanced classes in the train and test sets. We will analyze each of the three sets of features as well as the raw audio files.
+In this notebook we will investigate in more depth the audio tags, class labels, and class imbalance in the train and test sets. We will analyze each of the three sets of features as well as the raw audio files.
 
 ## [4. Pre-Processing](https://github.com/mateomartinez510/Springboard/blob/master/Household_Sounds_Capstone/notebooks/04_Pre_Processing.ipynb)
 
